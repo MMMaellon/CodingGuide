@@ -1,5 +1,18 @@
 # CodingGuide
 
-This is a programming resource for at people who have never programmed before.
+This is a learning resource for aspiring VRChat world creators who have never programmed before.
 
-I'm only going to try to explain enough to get you started. I recommend starting [at the beginning](https://github.com/MMMaellon/CodingGuide/wiki).
+I recommend starting [at the beginning](https://github.com/MMMaellon/CodingGuide/wiki).
+
+
+
+
+
+
+
+
+
+
+
+
+ask questions on my [Discord Server](https://discord.gg/S5sDC4PnFp)
