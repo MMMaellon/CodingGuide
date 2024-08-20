@@ -15,4 +15,5 @@ I recommend starting [at the beginning](https://github.com/MMMaellon/CodingGuide
 
 
 
+---
 ask questions on my [Discord Server](https://discord.gg/S5sDC4PnFp)
